@@ -1,0 +1,8 @@
+- `tinify-helpser` 进行图片压缩
+- `UnoCSS`进行unocss样式提示
+- `One Dark Pro` 护眼黑
+- `Color Highlight` 颜色高亮
+- `Prettier - Code formatter` 代码格式化
+- `ESLint` 代码检查
+- `GitLens` 代码追踪
+- `Cursor` AI提示
